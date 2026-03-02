@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(183, 190, 188);
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#bikinJadiTengah {
+    text-align: center;
+    font-size: xx-small;
+}
+
+.bikinJadiTengah2 {
+    text-align: center;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+.judulBerita {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+}
+
+.judulGambar {
+    text-align: center;
+    font-size: x-small;
+}
+
+.formatGambar {
+    border-radius: 15px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
